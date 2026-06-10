@@ -1,0 +1,9 @@
+{
+  "output": "404.html",
+  "slug": "404",
+  "title": "Sayfa Bulunamadı | Hazal Hotel",
+  "description": "Aradığınız sayfa bulunamadı. Hazal Hotel Karasu ana sayfasına dönerek odalarımızı ve iletişim bilgilerimizi inceleyebilirsiniz.",
+  "canonical": "https://hazalhotel.com/404.html",
+  "robots": "noindex",
+  "sitemap": false
+}
