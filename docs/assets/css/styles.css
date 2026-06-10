@@ -1,8 +1,6 @@
-@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@300;400;500;600;700;800;900&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Frank+Ruhl+Libre:wght@400;500;700;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&display=swap');
 @import url('https://cdn.jsdelivr.net/npm/daterangepicker/daterangepicker.css');
-@import url('style/layout.css');
-@import url('style/reservation.css?v5');
+@import url('style/layout.css?v7');@import url('style/reservation.css?v8');
 @import url('style/media.css');
 @import url('../owl/owl.carousel.min.css');
 @import url('https://cdn.jsdelivr.net/npm/@fancyapps/ui@4.0/dist/fancybox.css');

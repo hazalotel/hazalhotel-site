@@ -6,7 +6,7 @@
 .containerWidthCalc{width:calc(100% - 5%)}
 .homeDiscoverySlide .owl-dots{margin-left:-5%}
 .container{width:1200px}
-.topMenu>ul>li>a{font-size:18px}
+.topMenu>ul>li>a{font-size:14px;letter-spacing:0.1em}
 .homeSlideSlogan>strong{font-size:67px;line-height:70px}
 .homeSlideSlogan .logos img{width:100px!important}
 .homeSlideSlogan>span{font-size:18px}
@@ -107,7 +107,7 @@
 .headerResBtn{padding:12px 15px;font-size:14px}
 .headerRight{gap:10px}
 .topMenu>ul{gap:30px}
-.topMenu>ul>li>a{font-size:16px}
+.topMenu>ul>li>a{font-size:13px}
 .topMenu>ul>li>.subMenu>ul>li>a{font-size:14px}
 .homeSlideSlogan>strong{font-size:50px;line-height:50px}
 .owl-nav .owl-next{right:50px}
@@ -203,7 +203,7 @@ body{padding-top:var(--HeaderHeight)}
 .homeRoomSlide{margin-top:30px}
 .homeRoomSlide .owl-dots{justify-content:center;margin-top:20px}
 .homeRoomSlide .owl-dots .owl-dot.active{background:var(--GradientColor)}
-.homeRoomSlide .owl-dots .owl-dot{border-color:#0e74bc!important}
+.homeRoomSlide .owl-dots .owl-dot{border-color:var(--MainColorText)!important}
 .homeDiscoverySect{margin-top:60px;padding-block:40px}
 .roomItem>a>.bottomText{background-color:#f3f3f7}
 .roomProperty{opacity:1}
@@ -236,7 +236,7 @@ body{padding-top:var(--HeaderHeight)}
 .topMenuOpen .topMenuBtn span:nth-child(3){top:-10px;transform:rotate(-45deg)}
 .topMenuOpen .topMenuBtn span:nth-child(2){opacity:0}
 .topMenu>ul{height:fit-content;width:100%;flex-flow:wrap;display:inline-flex;gap:0;transition:.4s all;transform:translate(0,100px);opacity:0}
-.topMenu>ul>li>a{height:auto;padding:10px 20px;color:#fff;font-size:20px;border:solid 1px rgb(255 255 255 / 27%)}
+.topMenu>ul>li>a{height:auto;padding:10px 20px;color:#fff;font-family:var(--DefaultFont);font-size:15px;letter-spacing:0.1em;border:solid 1px rgb(255 255 255 / 27%)}
 .topMenu>ul>li{width:100%;display:inline-block}
 .topMenuOpen .topMenu{right:0}
 .topMenuOpen .topMenu>ul{transition-delay:1.1s;opacity:1;transform:translate(0,0);gap:10px}
@@ -279,8 +279,8 @@ body{padding-top:var(--HeaderHeight)}
 .detailPageForm .rezervationForm{padding:30px}
 .otherRoomSlide .roomItem>a>.bottomText{background-color:#fff}
 .otherRoomSlide .owl-dots{justify-content:center;margin-top:30px}
-.otherRoomSlide .owl-dots .owl-dot{border:solid 1px #013153!important}
-.otherRoomSlide .owl-dots .owl-dot.active{background:#013153!important}
+.otherRoomSlide .owl-dots .owl-dot{border:solid 1px var(--MainColorText)!important}
+.otherRoomSlide .owl-dots .owl-dot.active{background:var(--MainColor)!important}
 .otherRoomSect{padding-block:60px}
 .activitiesPage ul>li .activitiesCol{width:90%}
 .activitiesPage ul>li{justify-content:center!important}

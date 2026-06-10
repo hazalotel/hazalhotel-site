@@ -29,7 +29,7 @@ const CONTACT_SCRIPT = `<script>
       'E-posta: ' + email + '\\n\\n' +
       'Mesaj:\\n' + message
     );
-    window.location.href = 'mailto:info@hazalhotel.com?subject=' + subject + '&body=' + body;
+    window.location.href = 'mailto:hazalotel2021@gmail.com?subject=' + subject + '&body=' + body;
   });
 })();
 </script>`;

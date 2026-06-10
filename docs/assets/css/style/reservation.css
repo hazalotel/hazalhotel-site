@@ -26,7 +26,7 @@ td.off.ends.in-range.available{background:#c9e2d3;color:#000}
 .input-daterange .form-item{margin:0;height:100%;display:flex;flex-direction:column;justify-content:center}
 .rezervationForm .dateCol-3:last-child{border:none}
 .rezervationForm .dateCol-3:nth-child(3){border:none}
-.input-daterange .form-item,.rezervationForm .dateCol-3{border-right:solid 1px rgb(1 63 107 / 10%);padding-inline:30px;box-sizing:border-box}
+.input-daterange .form-item,.rezervationForm .dateCol-3{border-right:solid 1px rgb(8 127 91 / 15%);padding-inline:30px;box-sizing:border-box}
 }
 .rezervationWrap{position:absolute;transition:.3s all;bottom:50px;z-index:2;width:100%}
 @media screen and (min-width:950px){
@@ -36,11 +36,11 @@ td.off.ends.in-range.available{background:#c9e2d3;color:#000}
 .reservationDetailForm .daterangepicker:after,.reservationDetailForm .daterangepicker:before{opacity:0!important}
 }
 .rezervationWrap.remove{bottom:-170px!important;opacity:0;pointer-events:none;visibility:hidden}
-.input-daterange input{width:160px;text-align:left;color: #013f6b;background-color:transparent;box-sizing:border-box;border:none;outline:0;transition:border-color .2s ease-out;display:inline-block;cursor:pointer;font-weight:400;background-image:url(../../images/icons/date.svg);background-repeat:no-repeat;background-position:left center;background-size:16px;padding-left:25px}
+.input-daterange input{width:160px;text-align:left;color:#087f5b;background-color:transparent;box-sizing:border-box;border:none;outline:0;transition:border-color .2s ease-out;display:inline-block;cursor:pointer;font-weight:400;background-image:url(../../images/icons/date.svg);background-repeat:no-repeat;background-position:left center;background-size:16px;padding-left:25px}
 .rezervationForm .dateCol-3{width:175px;position:relative;text-align:left;box-sizing:border-box;display:flex;flex-direction:column;height:100%;justify-content:center;align-items:center}
 .rezervationForm .dateCol-3>span{position:relative;display:block;text-align:center}
 .rezervationForm .dateCol-3:last-child{margin-right:0}
-.rezervationForm .dateCol-3:focus{border:solid 1px #11204c}
+.rezervationForm .dateCol-3:focus{border:solid 1px #087f5b}
 .rezervationForm .dateCol-3.night{width:90px}
 .rezervationForm .dateCol-3 .counterBtn{line-height:35px;position:relative;top:0;display:flex;align-items:center;height:auto}
 .sBtn{display:inline-block;position:relative;cursor:pointer;width:24px;height:24px;display:flex;align-items:center;justify-content:center}
@@ -49,13 +49,13 @@ td.off.ends.in-range.available{background:#c9e2d3;color:#000}
 .ageSelect{width:100%;margin-bottom:3px;box-sizing:border-box;border:1px solid #e5e8f1;color:#092723;font-size:12px;line-height:32px;height:32px;display:none;padding:0 5px}
 .childClose{position:relative;background:rgba(0,0,0,.01);width:calc(100% + 30px);text-align:center;left:-15px;bottom:-10px;cursor:pointer;color:#7c7d7d}
 .rezervationForm{position:relative;display:inline-flex;width:100%;box-sizing:border-box;justify-content:space-between;z-index:2;align-items:center;flex-flow:wrap;height:110px}
-.formBtn .submit{position:relative;display:inline-flex;font-size:18px;color: #013f6b;cursor:pointer;transition:.3s all;font-weight:600;padding:0 15px;align-items:center;justify-content:center;transition:.3s all;width:278px;height:57px;background-color:#fcb040}
+.formBtn .submit{position:relative;display:inline-flex;font-size:18px;color:#087f5b;cursor:pointer;transition:.3s all;font-weight:600;padding:0 15px;align-items:center;justify-content:center;transition:.3s all;width:278px;height:57px;background-color:#fcb040}
 .formBtn .submit>i{display:block;margin-left:18px}
 .datePlace{position:relative;transition:all .5s ease;pointer-events:none;display:block}
 .formBtn{position:relative;display:inline-block}
 .formBtn .submit:hover{background-color:#e19a32}
-.rezervationForm .formDatepicker{position:relative;display:flex;width:calc(100% - 400px);height:100%;align-items:center;font-weight:700;font-size:12px;color:rgb(1 63 107 / 70%)}
-.rezervationForm .formTitle{position:relative;display:flex;width:400px;height:100%;background-color:#14a79d;justify-content:center;align-items:center}
+.rezervationForm .formDatepicker{position:relative;display:flex;width:calc(100% - 400px);height:100%;align-items:center;font-weight:700;font-size:12px;color:rgb(8 127 91 / 70%)}
+.rezervationForm .formTitle{position:relative;display:flex;width:400px;height:100%;background-color:var(--MainColor);justify-content:center;align-items:center}
 .rezervationForm .formTitle>strong{display:block;font-size:24px;color:#fff;font-weight:800;line-height:28px;text-align:center}
 .reservationPage{position:relative;display:block;margin-bottom:90px;margin-top:80px}
 .reservationCol{position:relative;display:block;box-sizing:border-box;margin-bottom:32px}
@@ -149,7 +149,7 @@ td.off.ends.in-range.available{background:#c9e2d3;color:#000}
 .resDetailFormCol>ul>li>.securityDate>ul>li.date>select#card-expiration-month{width:80px}
 .credit-card-box{position:relative;display:inline-block;width:var(--creditCardWidth);height:var(--creditCardHeight);border-radius:var(--creditCardRadius);margin-top:40px}
 .credit-card-box.hover .flip,.credit-card-box:hover .flip{transform:rotateY(180deg)}
-.credit-card-box .back,.credit-card-box .front{width:var(--creditCardWidth);height:var(--creditCardHeight);border-radius:var(--creditCardRadius);-webkit-backface-visibility:hidden;backface-visibility:hidden;position:absolute;color:#fff;top:0;left:0;text-shadow:0 1px 1px rgba(0,0,0,.3);padding:30px 25px;box-sizing:border-box;display:flex;flex-direction:column;justify-content:space-between;background:linear-gradient(94.31deg,#14a79d -3.54%,#0e74bc 108.26%)}
+.credit-card-box .back,.credit-card-box .front{width:var(--creditCardWidth);height:var(--creditCardHeight);border-radius:var(--creditCardRadius);-webkit-backface-visibility:hidden;backface-visibility:hidden;position:absolute;color:#fff;top:0;left:0;text-shadow:0 1px 1px rgba(0,0,0,.3);padding:30px 25px;box-sizing:border-box;display:flex;flex-direction:column;justify-content:space-between;background:linear-gradient(94.31deg,#087f5b -3.54%,#055a40 108.26%)}
 .credit-card-box .flip{transition:.6s;transform-style:preserve-3d;position:relative}
 .credit-card-box .front{z-index:2;transform:rotateY(0)}
 .credit-card-box .back{transform:rotateY(180deg)}
@@ -162,7 +162,7 @@ td.off.ends.in-range.available{background:#c9e2d3;color:#000}
 .credit-card-box .ccv{height:25px;background:#fff;width:calc(100% - 35px);border-radius:5px;top:110px;left:0;right:0;position:absolute;margin:0 auto;color:#000;text-align:right;padding:10px}
 .credit-card-box .ccv label{margin:-25px 0 14px;color:#fff}
 .credit-card-box .card-holder .card-name{max-width:220px}
-.resInput:focus,.resSelect:focus{border:solid 1px #013f6b}
+.resInput:focus,.resSelect:focus{border:solid 1px #087f5b}
 .resDetailForm button.hotelFormSubmit{background:#fa9124}
 .resDetailForm button.hotelFormSubmit:hover{background:#df801d}
 .resInfoWarning{position:relative;display:block;margin-top:35px;width:100%;background:rgba(255,189,22,.1);border:1px solid #ffbd16;box-sizing:border-box;border-radius:8px;padding:24px}
@@ -174,12 +174,12 @@ td.off.ends.in-range.available{background:#c9e2d3;color:#000}
 .reservationCol .reservationText .resGallerySlide .owl-dots .owl-dot{height:9px}
 .reservationCol .reservationText .resGallerySlide .owl-dots .owl-dot.active{width:50px}
 .reservationCol .reservationCampaign .date .title .startEndDate{display:flex;margin-right:0;flex-direction:column}
-.reservationCol .reservationPriceList ul li .frontPrice{position:relative;display:flex!important;padding:7px 16px!important;align-items:center;color:#fff!important;box-sizing:border-box!important;font-size:14px;transition:.3s all;background-color:#33a3f4}
+.reservationCol .reservationPriceList ul li .frontPrice{position:relative;display:flex!important;padding:7px 16px!important;align-items:center;color:#fff!important;box-sizing:border-box!important;font-size:14px;transition:.3s all;background-color:var(--MainColor)}
 .reservationCol .reservationPriceList ul li .frontPrice span>strong{display:flex;font-weight:700;font-size:20px;align-items:center;color:#fff;gap:10px;text-align:center}
 .reservationCol .reservationPriceList ul li .frontPrice>i{display:block;margin-right:16px}
 .reservationCol .reservationPriceList ul li .frontPrice>span{display:block}
 .reservationCol .reservationPriceList ul li .titleResCmp{position:relative;display:flex;gap:10px;flex-direction:column}
-.reservationCol .reservationPriceList ul li .titleResCmp .cmp{position:relative;display:flex;align-items:center;font-size:16px;font-weight:400;line-height:26px;color:#33a3f4;margin-top:5px}
+.reservationCol .reservationPriceList ul li .titleResCmp .cmp{position:relative;display:flex;align-items:center;font-size:16px;font-weight:400;line-height:26px;color:#087f5b;margin-top:5px}
 .reservationCol .reservationPriceList ul li .titleResCmp .cmp>i{display:block;margin-right:16px}
 .reservationCol .reservationPriceList ul li .noAvailability{position:relative;display:flex;align-items:center;border:1px solid #e03e3e;border-radius:8px;padding:8px 10px;box-sizing:border-box;flex-direction:column;justify-content:center;gap:2px}
 .reservationCol .reservationPriceList ul li .noAvailability>span{position:relative;display:block;color:#e03e3e;font-weight:500;font-size:14px}
@@ -204,8 +204,8 @@ td.off.ends.in-range.available{background:#c9e2d3;color:#000}
 textarea.resInput.restextarea{height:140px;resize:none}
 .reservationCol .reservationCampaign .date .title>span{display:flex;flex-direction:column}
 .reservationCol .reservationText .resGallerySlide .item>a{display:block;width:100%;height:100%;cursor:zoom-in}
-.reservationCol .reservationPriceList ul li .campaignBtn>a.call{display:flex;align-items:center;background:#33a3f4;justify-content:center}
-.reservationCol .reservationPriceList ul li .campaignBtn>a.call:hover{background:#298cd5}
+.reservationCol .reservationPriceList ul li .campaignBtn>a.call{display:flex;align-items:center;background:var(--MainColor);color:#fff;justify-content:center}
+.reservationCol .reservationPriceList ul li .campaignBtn>a.call:hover{background:var(--MainColorHover)}
 .resDetailFormCol>ul>li>label{user-select:none}
 .reservationCol .reservationText .text .resIconsList{position:absolute;display:inline-flex;gap:9px;margin-top:10px;bottom:0}
 .reservationCol .reservationText .text .resIconsList>li{position:relative;display:flex;align-items:center;justify-content:center;border:solid 1px #eaeef3;padding:8px;border-radius:5px;width:40px;height:40px;box-sizing:border-box}
@@ -252,7 +252,7 @@ img.table-img{width:auto;height:35px;max-width:initial}
 .resInfoList{position:relative;display:block;margin-top:25px}
 .resInfoList>ul{display:flex;flex-flow:wrap;gap:16px}
 .resInfoList>ul>li{position:relative;display:flex;width:100%;align-items:center;color:#000;font-size:18px;font-weight:400;gap:16px;flex-flow:wrap}
-.resInfoList>ul>li>i{position:relative;display:flex;align-items:center;justify-content:center;width:44px;height:44px;background-color:#013153;border-radius:50%}
+.resInfoList>ul>li>i{position:relative;display:flex;align-items:center;justify-content:center;width:44px;height:44px;background-color:var(--MainColor);border-radius:50%}
 .resPriceList{position:relative;display:block;width:100%}
 .resPriceList>ul{position:relative;display:flex;flex-flow:wrap;gap:16px}
 .resPriceList>ul>li{position:relative;display:flex;width:100%;justify-content:space-between;color:#11142d;align-items:center;gap:5px}
@@ -268,7 +268,7 @@ img.table-img{width:auto;height:35px;max-width:initial}
 .datePlace,.rezervationForm .dateCol-3>span{margin-bottom:5px}
 .rezervationForm::before{content:"";position:absolute;width:calc(100% - 28px);height:100%;left:0;bottom:0;background-color:#fff;box-shadow:0 16px 50px rgba(0,0,0,.18)}
 .input-daterange input,.rezervationForm .dateCol-3 .counterBtn .counterInput{font-size:24px}
-.reservationCol .reservationPriceList ul li .titleResCmp .frontPriceRes{padding:revert;display:flex;align-items:center;gap:16px;font-size:16px;font-weight:600;color:#33a3f4}
+.reservationCol .reservationPriceList ul li .titleResCmp .frontPriceRes{padding:revert;display:flex;align-items:center;gap:16px;font-size:16px;font-weight:600;color:#087f5b}
 .reservationCol .reservationPriceList ul li .campaignBtn>.avCalText{position:relative;display:block;width:114px;max-width:100%;font-size:12px;line-height:16px;font-weight:400;color:#e03e3e}
 .reservationDetailForm{position:relative;bottom:auto;margin-top:-55px}
 .resDetailFormCol .resDetailTitle{font-family:var(--BoldFont)}
@@ -447,7 +447,7 @@ img.table-img{width:auto;height:35px;max-width:initial}
 .installTableFancy .table td.table-img>img{width:100%;height:100%;max-width:initial;object-fit:contain}
 .rezervationForm .formDatepicker{font-size:11px;width:90%;margin:auto}
 .input-daterange input,.rezervationForm .dateCol-3 .counterBtn .counterInput{font-size:18px}
-.rezervationWrap{position:relative;padding-block:0;background-color: #2b86cf;margin-top:-1px;margin-bottom:-1px;transform:inherit!important}
+.rezervationWrap{position:relative;padding-block:0;background-color:var(--MainColor);margin-top:-1px;margin-bottom:-1px;transform:inherit!important}
 .rezervationForm::before{box-shadow:none}
 .reservationCol .reservationPriceList ul li .campaignBtn>.avCalText{width:100%;text-align:center}
 .reservationCol .reservationPriceList ul li .titleResCmp .frontPriceRes{justify-content:center}

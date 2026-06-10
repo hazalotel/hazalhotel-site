@@ -5,7 +5,7 @@ import path from 'path';
 import { fileURLToPath } from 'url';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
-const siteDir = path.join(__dirname, '..', 'site');
+const siteDir = path.join(__dirname, '..', 'docs');
 const port = Number(process.env.PORT || 8080);
 
 const MIME = {
