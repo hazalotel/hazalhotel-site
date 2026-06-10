@@ -1,0 +1,405 @@
+@media only screen and (max-width:1700px){
+.containerWidthCalc{width:calc(100% - 8%)}
+.homeDiscoverySlide .owl-dots{margin-left:-8%}
+}
+@media only screen and (max-width:1650px){
+.containerWidthCalc{width:calc(100% - 5%)}
+.homeDiscoverySlide .owl-dots{margin-left:-5%}
+.container{width:1200px}
+.topMenu>ul>li>a{font-size:18px}
+.homeSlideSlogan>strong{font-size:67px;line-height:70px}
+.homeSlideSlogan .logos img{width:100px!important}
+.homeSlideSlogan>span{font-size:18px}
+.homeSlideSlogan{gap:10px}
+.campaignTitle>strong{font-size:32px}
+.campaignTitle>p{font-size:16px;margin-top:8px}
+.campaignTitle{padding-top:100px}
+.campaignSlide .item>a>.bg{width:160px}
+.campaignSlide .item>a>.text{width:calc(100% - 160px);padding:15px}
+.campaignSlide .item>a>.text>p{font-size:14px;line-height:22px}
+.campaignSlide .item{height:110px}
+.homeAbout-text .title>strong{font-size:32px;line-height:45px}
+.homeAbout-text .title>span{font-size:16px;margin-bottom:5px}
+.homeAbout-text .title{margin-bottom:5px}
+.homeAbout-text p{font-size:16px}
+.homeAbout-text a{font-size:14px}
+.homeAbout-bgs{gap:30px;margin-left:40px;width:calc(100% - 575px - 40px)}
+.homeAbout-bgs .bg2{height:420px}
+.homeAbout-bgs .bg1{height:300px}
+.homePattern{width:25%}
+.homeSectRoomHeader .text>p{font-size:16px}
+.homeSectRoomHeader .text{width:530px}
+.titleStyle>span{font-size:16px}
+.titleStyle>strong{font-size:32px}
+.homeRoomSlide .roomItem{width:520px;margin-right:30px}
+.roomItem>a .bg{height:350px}
+.homeDiscoverySlide .item .textCol{padding:50px}
+.homeDiscoverySlide .item .textCol .text p{font-size:16px;line-height:30px;margin-bottom:20px}
+.homeDiscoverySlide .item .textCol .text strong{font-size:42px}
+.navSlideBtn .next,.navSlideBtn .prev{width:50px;height:50px}
+.footerTop .footerRight{padding-left:80px;padding-top:80px}
+.footerTopMenu ul>li>a{font-size:14px}
+.footerTitle{font-size:22px}
+.footerTopMenu ul{row-gap:20px;width:350px}
+.footerTop .footerLeft{padding-bottom:40px}
+.footerFollow p{font-size:14px;line-height:22px}
+.footerSocial>ul{gap:25px}
+.footerFollow{width:250px}
+.copyright{padding-bottom:25px;width:300px}
+.footerLeft .logo{margin-bottom:40px}
+.footerAddress>ul>li>a{font-size:14px;line-height:22px}
+.homeSectBar .text>strong{font-size:52px;line-height:65px}
+.homeSectBar .text>p{font-size:18px;line-height:32px}
+.homeAbout-text::before{width:calc(100% + 30%)}
+.headerBanner{height:400px}
+.headTitle{font-size:50px}
+.titleStyle2>strong{font-size:22px}
+.defaultSize p{font-size:16px;line-height:32px}
+.aboutPageProperty{margin-top:60px}
+.aboutPageProperty>ul{gap:150px}
+.aboutPageProperty>ul>li{font-size:16px}
+.aboutPageSect2 .bg{height:500px}
+.aboutPageSect2 .text{padding-right:90px}
+.aboutPageSect2 .text>strong{font-size:36px;line-height:40px}
+.aboutPageSect2 .text>p{margin-bottom:15px}
+.aboutPageSect3 .text>p{margin-bottom:15px}
+.aboutPageSect3 .gallery{height:500px}
+.propertyList>ul>li{font-size:14px}
+.aboutPageSect4 .titleStyle2>strong{font-size:32px}
+.roomsPage ul>li .roomItem>a>.bottomText>strong{font-size:28px}
+.roomItem>a>.bottomText>.text>p{font-size:16px}
+.roomDetailSlide .item{width:950px;height:500px}
+.playBtn2{width:100px;height:100px}
+.detailPageCol_Sm{width:400px}
+.detailPageForm .rezervationForm{padding:40px}
+.detailPageCol_Lg{width:calc(100% - 400px - 80px)}
+.detailPageRow .container{gap:80px}
+.roomDetailTitle2>strong{font-size:22px}
+.roomDetailTitle2{margin-bottom:30px;padding-bottom:20px}
+.commentSect{padding:40px}
+.commentSlide .item>p{font-size:14px}
+.commentSlide .item>strong{margin-top:25px}
+.roomDetailSect .title>strong{font-size:45px;line-height:50px}
+.roomDetailSect .title{margin-bottom:20px}
+.roomDetailSect p{font-size:16px;line-height:32px}
+.roomDetailTitle{margin-bottom:25px}
+.roomDetailList>ul>li>i{}
+.roomDetailList>ul>li{gap:15px}
+.roomDetailList>ul{row-gap:32px}
+.otherRoomSect .roomItem>a .bg{height:280px}
+.activitiesPage ul>li .activitiesCol{width:95%}
+.activitiesPage ul>li .activitiesCol .activitiesSlide{width:50%}
+.activitiesPage ul>li .activitiesCol .activitiesText{width:50%;padding-inline:50px}
+.activitiesPage ul>li .activitiesCol .activitiesText .text>strong{font-size:42px;line-height:42px}
+.activitiesPage ul>li .activitiesCol .activitiesText .text>p{font-size:18px;line-height:30px;margin-bottom:15px}
+.activitiesPage ul>li .activitiesCol .activitiesSlide .item{height:500px}
+.headerBanner2{height:330px}
+.campaignDetailPage{margin-top:-50px}
+.defaultSize h2{font-size:32px;margin-bottom:25px}
+.mapSect{height:400px}
+}
+@media only screen and (max-width:1250px){
+.homeAbout-bgs .bg2{height:400px}
+.homeAbout-bgs .bg1{height:280px}
+}
+@media only screen and (max-width:1150px){
+:root{--HeaderHeight:115px}
+.headerResBtn{padding:12px 15px;font-size:14px}
+.headerRight{gap:10px}
+.topMenu>ul{gap:30px}
+.topMenu>ul>li>a{font-size:16px}
+.topMenu>ul>li>.subMenu>ul>li>a{font-size:14px}
+.homeSlideSlogan>strong{font-size:50px;line-height:50px}
+.owl-nav .owl-next{right:50px}
+.owl-nav .owl-prev{left:50px}
+.homeAbout-bgs .bg2{height:350px}
+.homeAbout-bgs .bg1{height:280px}
+.homeAbout-bgs{gap:20px;width:calc(100% - 540px - 40px)}
+.homeAbout-text p{font-size:14px;line-height:30px}
+.homeAbout-text .title>strong{font-size:28px;line-height:42px}
+.homeSectBar .text>p{font-size:16px;line-height:28px}
+.homeSectBar .text>strong{font-size:42px}
+.homeSectBar .bg,.homeSectBar .text{min-height:360px}
+.homeSectBar .text{padding:60px}
+.homeSectRoomHeader .text{width:420px}
+.homeSectRoomHeader .text>p{font-size:14px;line-height:26px}
+.titleStyle>strong{font-size:28px}
+.titleStyle>span{font-size:14px;gap:12px}
+.titleStyle>span::before{width:32px}
+.homeRoomSlide .roomItem{width:420px}
+.roomItem>a>.bottomText>strong{font-size:22px}
+.roomItem>a>.bottomText{padding:25px 20px}
+.homeDiscoverySlide .item .textCol .text strong{font-size:32px}
+.homeDiscoverySlide .item .textCol .text p{font-size:14px}
+.homeDiscoverySlide .item .textCol{width:55%}
+.homeDiscoverySlide .item .bg,.navSlideBtn{width:45%}
+.homeDiscoverySlide .owl-dots{margin-top:20px}
+.homeDiscoverySect{margin-top:-110px}
+.homeDiscoverySlide{margin-top:35px}
+.homeSectRooms{margin-top:80px}
+.campaignTitle>strong{font-size:28px}
+.campaignTitle>p{font-size:14px}
+.footerLeft{width:320px}
+.footerTop .footerLeft{padding-right:40px}
+.footerRight{width:calc(100% - 320px)}
+.footerTop .footerRight{padding-left:50px}
+.footerTopMenu ul{width:320px}
+.copyright{width:100%}
+.footerSocial>ul{gap:18px}
+.footerTitle{margin-bottom:15px;font-size:20px}
+.footerSocial{margin-top:20px}
+.titleStyle.titleVertical>span::before{height:30px}
+.homeAbout-text{width:540px}
+.headerBanner{height:340px}
+.headTitle{font-size:42px}
+.defaultSize p,.defaultSize ul li{font-size:14px;line-height:30px}
+.aboutPageSect2 .text>strong{font-size:32px}
+.aboutPageSect2 .text{padding-inline:50px}
+.aboutPageSect3 .gallery>ul:last-child{width:340px}
+.aboutPageSect3 .gallery>ul{width:calc(100% - 340px - 15px);gap:15px}
+.aboutPageSect3 .gallery{height:360px;gap:15px}
+.aboutPageSect3 .gallery>ul>li{height:calc(33.33% - 10px)}
+.aboutPageSect4 .titleStyle2>strong{font-size:26px}
+.roomsPage ul{gap:30px}
+.roomsPage ul>li{width:calc(50% - 15px)}
+.roomDetailSlide .item{width:700px;height:420px}
+.detailPageCol_Sm{width:350px}
+.detailPageForm .rezervationForm{padding:30px 20px}
+.commentSect{margin-top:30px;padding:30px 20px}
+.roomDetailTitle2>strong{font-size:20px}
+.detailPageCol_Lg{width:calc(100% - 350px - 50px)}
+.detailPageRow .container{gap:50px}
+.otherRoomSect .roomItem>a .bg{height:220px}
+.roomDetailSect p{font-size:14px}
+.roomDetailTitle{margin-bottom:20px}
+.roomDetailList>ul>li>i{}
+.roomDetailList>ul>li{gap:10px;font-size:14px}
+.roomProperty>span{font-size:14px}
+.roomDetailSect .title>strong{font-size:40px}
+.playBtn2{width:90px;height:90px}
+.activitiesPage ul>li .activitiesCol .activitiesSlide .item{height:420px}
+.activitiesPage ul>li .activitiesCol .activitiesText .text>p{font-size:14px;line-height:30px}
+.activitiesPage ul>li .activitiesCol .activitiesText .text>strong{font-size:36px;line-height:32px}
+.headerBanner2{height:280px}
+.defaultSize h2{font-size:28px;margin-bottom:20px}
+.gallleryPageList ul>li{gap:25px;width:calc(33.33% - 16.67px);height:400px}
+.gallleryPageList ul{gap:25px}
+.contactPageCol.contactPageForm{padding-inline:50px}
+.contactPageCol.contactPageAddress{padding-inline:50px}
+}
+@media only screen and (max-width:950px){
+body{padding-top:var(--HeaderHeight)}
+.containerWidthCalc{width:90%;margin:auto}
+.homeSectBar .bg,.homeSectBar .text{min-height:auto}
+.homeSectBar .bg{width:100%;height:240px}
+.homeSectBar .text{width:100%;padding:40px}
+.homeSectBar .text>strong{line-height:38px;font-size:36px}
+.homeAbout-text{width:100%;padding:40px}
+.homeAbout-bgs{position:relative;top:auto;transform:translateY(0);width:100%;justify-content:center;margin-top:30px;margin-left:0}
+.homeSectBar{margin-top:50px}
+.homeSectRoomHeader{flex-flow:wrap}
+.titleStyle{width:100%}
+.homeSectRoomHeader .text{width:100%}
+.homeRoomSlide{margin-top:30px}
+.homeRoomSlide .owl-dots{justify-content:center;margin-top:20px}
+.homeRoomSlide .owl-dots .owl-dot.active{background:var(--GradientColor)}
+.homeRoomSlide .owl-dots .owl-dot{border-color:#0e74bc!important}
+.homeDiscoverySect{margin-top:60px;padding-block:40px}
+.roomItem>a>.bottomText{background-color:#f3f3f7}
+.roomProperty{opacity:1}
+.roomItem>a>.bottomText>strong{margin-bottom:20px}
+.homeDiscoverySlide .item .bg,.navSlideBtn{width:100%}
+.homeDiscoverySlide .item .textCol{width:100%;padding:30px}
+.homeDiscoverySlide .item .bg{height:300px}
+.navSlideBtn{display:none}
+.homeDiscoverySlide .item .textCol .text{width:100%}
+.footerTop .footerLeft{padding:0;padding-block:30px}
+.footerLeft{width:100%;border-right:none}
+.footerTop .container{flex-flow:wrap}
+.footerTop .footerRight{padding:0;padding-block:30px;width:100%;flex-flow:wrap;border-top:solid 1px rgb(255 255 255 / 15%);box-sizing:border-box}
+.footerBottom .container{flex-flow:wrap;flex-direction:column-reverse}
+.copyright{padding-block:14px;text-align:center;font-size:12px}
+.footerRight{width:100%;justify-content:center}
+.footerBottom .footerRight{justify-content:center}
+.footerBottomMenu{padding-block:20px;box-sizing:border-box}
+.footerTopMenu{width:100%;margin-bottom:38px}
+.footerFollow{width:100%}
+.homeSectRoomHeader.containerWidthCalc{width:100%}
+.footerBottomMenu>ul{gap:13px}
+.footerBottomMenu>ul>li>a{font-size:13px}
+.container{max-width:90%}
+.topMenu{position:fixed;background-color:var(--MainColor);z-index:10;right:-100%;top:var(--HeaderHeight);width:100%;height:calc(100vh - var(--HeaderHeight));padding:110px 35px;box-sizing:border-box;display:flex;transition:all ease-in-out .5s;transition-delay:.5s;flex-direction:column}
+.topMenuBtn{position:relative;display:flex;width:45px;gap:6px;padding:5px;box-sizing:border-box;flex-flow:wrap;z-index:11}
+.topMenuBtn>span{position:relative;display:block;width:100%;height:4px;background:#fff;transform:rotate(0);transition:.5s all;top:0;opacity:1}
+.topMenuOpen{overflow:hidden}
+.topMenuOpen .topMenuBtn span:nth-child(1){transform:rotate(45deg);top:10px}
+.topMenuOpen .topMenuBtn span:nth-child(3){top:-10px;transform:rotate(-45deg)}
+.topMenuOpen .topMenuBtn span:nth-child(2){opacity:0}
+.topMenu>ul{height:fit-content;width:100%;flex-flow:wrap;display:inline-flex;gap:0;transition:.4s all;transform:translate(0,100px);opacity:0}
+.topMenu>ul>li>a{height:auto;padding:10px 20px;color:#fff;font-size:20px;border:solid 1px rgb(255 255 255 / 27%)}
+.topMenu>ul>li{width:100%;display:inline-block}
+.topMenuOpen .topMenu{right:0}
+.topMenuOpen .topMenu>ul{transition-delay:1.1s;opacity:1;transform:translate(0,0);gap:10px}
+.topMenu>ul>li>.subMenu{position:relative;top:0;left:0;opacity:1;visibility:visible;padding-top:0;width:100%;display:none;transition:initial!important}
+.topMenu>ul>li>.subMenu>ul{border-radius:0;padding:20px;padding-bottom:15px}
+.topMenu>ul>li>a.selected{background-color:#d9932c}
+.topMenu>ul>li>a.selected::after{transform:rotate(180deg)}
+.headerLang{margin-top:10px;border:solid 1px rgb(255 255 255 / 27%);padding:10px 20px;transition:.4s all;transform:translate(0,100px);opacity:0}
+.headerLang>ul{border-radius:0;padding-inline:4px;box-sizing:border-box;padding-top:40px;padding-bottom:10px;gap:5px;display:flex;flex-direction:column}
+.topMenuOpen .headerLang{transition-delay:1.1s;opacity:1;transform:translate(0,0)}
+.headerLang.open>ul{opacity:1;visibility:visible}
+.headerLang.open>strong::before{transform:rotate(225deg);top:7px;border-color:#17161e}
+.headerLang.open>strong{color:#17161e}
+.headerLang>ul>li>a{padding:3px 15px}
+.headerLang>strong{font-weight:700;font-size:20px}
+.header::before{box-shadow:none;height:100%;opacity:1}
+.homeSlide .item{height:600px}
+.homeAbout-text::before{width:100%}
+.headerBanner{height:240px}
+.headTitle{font-size:36px}
+.aboutPageProperty>ul{gap:100px}
+.aboutPageProperty>ul>li{font-size:14px}
+.aboutPageSect2 .bg{width:100%}
+.aboutPageSect2 .text{width:100%;padding:50px}
+.aboutPageSect3 .container{flex-direction:column-reverse;gap:20px}
+.aboutPageSect3 .gallery{width:100%}
+.aboutPageSect3 .text{width:100%;padding-right:0}
+.aboutPageSect3 .gallery>ul{width:calc(30% - 15px)}
+.aboutPageSect3 .gallery>ul:last-child{width:70%}
+.propertyList>ul>li{width:calc(33.33% - 10px)}
+.propertyList>ul{gap:15px;row-gap:25px}
+.aboutPageSect4 .titleStyle2{margin-bottom:50px}
+.aboutPageSect4{padding-bottom:100px}
+.roomsPage ul>li{width:100%}
+.detailPageCol_Lg{width:100%}
+.detailPageCol_Sm{width:100%}
+.roomDetailPageRow .detailPageForm{margin-top:0}
+.roomDetailSlide .item{width:580px}
+.detailPageForm .rezervationForm .formDatepicker{column-gap:0}
+.detailPageForm .rezervationForm{padding:30px}
+.otherRoomSlide .roomItem>a>.bottomText{background-color:#fff}
+.otherRoomSlide .owl-dots{justify-content:center;margin-top:30px}
+.otherRoomSlide .owl-dots .owl-dot{border:solid 1px #013153!important}
+.otherRoomSlide .owl-dots .owl-dot.active{background:#013153!important}
+.otherRoomSect{padding-block:60px}
+.activitiesPage ul>li .activitiesCol{width:90%}
+.activitiesPage ul>li{justify-content:center!important}
+.activitiesPage ul>li .activitiesCol .activitiesSlide{width:100%}
+.activitiesPage ul>li .activitiesCol .activitiesText{width:100%;padding:50px}
+.activitiesPage ul>li .activitiesCol .activitiesText .text{width:100%}
+.headerBanner2{padding-top:0;height:200px}
+.gallleryPageList ul>li{height:300px}
+.contactPageCol{width:100%}
+.contactPageForm .formDefault{width:100%}
+body.countdownOpen{padding-top:calc(var(--countdownHeight) + var(--HeaderHeight))}
+.countdownHeader>.title{font-size:14px}
+.countdownHeader{gap:12px}
+.countdownHeader .countdown>li>span{font-size:20px}
+.countdownOpen .topMenu{top:calc(var(--HeaderHeight) + var(--countdownHeight))}
+.countdownHeader .close{right:0;padding:2px;top:0;width:24px}
+.pulse{display:flex!important}
+}
+@media only screen and (max-width:700px){
+:root{--HeaderHeight:85px}
+.headerResBtn>span{display:none}
+.logo{width:70px}
+.homeSlideSlogan>strong{font-size:32px;line-height:40px}
+.homeSlideSlogan .logos{gap:10px}
+.homeSlideSlogan .logos img{width:70px!important}
+.homeSlideSlogan>span{font-size:16px}
+.homeSlideSlogan{width:90%}
+.header .container{padding-block:10px}
+.campaignTitle>strong{font-size:22px}
+.campaignSect{padding-bottom:40px}
+.campaignSlide .owl-dots{margin-top:25px}
+.campaignTitle::before{height:50px}
+.campaignTitle{padding-top:80px}
+.homeAbout-bgs .bg2{display:none}
+.homeAbout-bgs .bg1{width:100%}
+.homeAbout-bgs{margin-top:20px}
+.homeAbout-text{padding:30px}
+.homeAbout-text .title>span{font-size:14px}
+.homeAbout-text .title>strong{font-size:22px;line-height:32px}
+.homeAboutSect{margin-top:30px}
+.homeSectBar .text>strong{font-size:25px;line-height:32px;margin-bottom:0}
+.homeSectBar .text>p{font-size:14px;line-height:24px}
+.homeSectBar .text{padding:25px}
+.titleStyle>strong{font-size:22px;line-height:32px}
+.homeSectRooms{margin-top:50px}
+.homeSectRooms .containerWidthCalc{margin:auto}
+.homeSectRoomHeader.containerWidthCalc{width:100%}
+.roomItem>a .bg{height:270px}
+.homeRoomSlide .roomItem{width:100%}
+.homeDiscoverySlide .item .textCol .text strong{font-size:25px;margin-bottom:10px}
+.homeDiscoverySlide .item .textCol{padding:25px}
+.homeDiscoverySlide .item .textCol .text p{margin-bottom:10px}
+.roomItem>a>.bottomText>strong{font-size:20px}
+.roomProperty>span{font-size:12px}
+.homeAbout-text a{padding:12px;width:100%;text-align:center;justify-content:center}
+.homeSlide .item{height:450px}
+.homeSlide .owl-dots{bottom:30px}
+.headerBanner{height:200px}
+.headTitle{font-size:30px}
+.titleStyle2>strong{line-height:35px}
+.aboutPageProperty>ul{gap:30px}
+.aboutPageProperty>ul>li>i{width:45px;min-height:40px;display:flex;align-items:center}
+.aboutPageProperty{margin-top:40px}
+.aboutPageSect2{margin-top:50px}
+.aboutPageSect2 .bg{height:330px}
+.aboutPageSect2 .text{padding:30px}
+.aboutPageSect2 .text>strong{font-size:26px;line-height:35px}
+.aboutPageSect4 .titleStyle2>strong{font-size:22px}
+.propertyList>ul>li{width:calc(50% - 5px)}
+.propertyList>ul{gap:10px;row-gap:20px}
+.aboutPageSect3 .gallery{flex-direction:column;height:auto}
+.aboutPageSect3 .gallery>ul{width:100%;gap:10px}
+.aboutPageSect3 .gallery>ul:last-child{width:100%}
+.aboutPageSect3 .gallery>ul>li{height:110px;width:calc(33.33% - 7px)}
+.aboutPageSect3 .gallery>ul:last-child>li{height:220px;width:100%}
+.aboutPageSect3{padding-top:60px}
+.roomsPage ul>li .roomItem>a>.bottomText{padding:30px 20px}
+.roomItem>a>.bottomText>.text>p{font-size:14px}
+.roomsPage ul>li .roomItem>a>.bottomText>strong{font-size:25px}
+.detailPageForm .rezervationForm .formDatepicker .input-daterange{column-gap:0}
+.detailPageForm .rezervationForm .dateCol-3{border:none!important}
+.detailPageForm .rezervationForm .formDatepicker{row-gap:4px}
+.roomDetailTitle2{margin-bottom:20px}
+.roomDetailTitle2>strong{font-size:18px}
+.roomDetailPageRow{padding-bottom:70px}
+.otherRoomSect .homeSectRoomHeader{margin-bottom:30px}
+.roomDetailSlide .item{width:100%;height:350px}
+.roomDetailSlide .owl-dots{position:absolute;bottom:20px;width:100%;justify-content:center}
+.roomDetailSect .title>strong{font-size:32px;line-height:30px}
+.roomDetailTitle{margin-bottom:5px}
+.roomDetailList{margin-top:15px}
+.roomDetailList>ul>li{width:calc(50% - 15px)}
+.roomDetailList>ul{gap:30px}
+.activitiesPage ul>li .activitiesCol .activitiesSlide .item{height:270px}
+.activitiesSlide .owl-nav .owl-next,.activitiesSlide .owl-nav .owl-prev{width:45px;height:45px;background-size:12px!important}
+.activitiesPage ul>li .activitiesCol .activitiesText{padding:25px}
+.activitiesPage ul>li .activitiesCol .activitiesText .text>strong{font-size:26px;margin-bottom:5px}
+.activitiesPage{margin-block:60px}
+.activitiesPage ul>li .activitiesCol .activitiesText .text>p{line-height:27px}
+.headerBanner2{height:150px}
+.campaignDetailPage{margin-top:30px;margin-bottom:50px}
+.campaignDetailPage .detailPageRow{margin-top:30px}
+.defaultSize h2{font-size:24px;margin-bottom:15px}
+.defaultSize p,.defaultSize ul li{line-height:26px;margin-bottom:20px}
+.gallleryPageList ul>li{width:100%;height:auto}
+.gallleryPageList ul>li>a{height:250px}
+.contactPageCol{padding:25px!important}
+.formDefault>ul{gap:10px}
+.formDefault>ul>li:nth-child(2),.formDefault>ul>li:nth-child(3){width:calc(50% - 5px)}
+.form-text{height:40px;font-size:12px}
+textarea.form-text.textarea{height:90px}
+.form-submit{height:45px;font-size:16px}
+.contactPageAddress ul>li>p>a{gap:5px;font-size:14px}
+.contactPageAddress ul>li>p>a>i{width:20px}
+.directionBtn{height:42px;font-size:14px}
+.countdownHeader>.title{display:none}
+.countdownHeader .title_m{display:block;color:#333;font-size:15px;font-weight:500}
+.countdownHeader{flex-direction:column;gap:5px}
+.countdownHeader .countdown>li>span{font-size:14px}
+.countdownHeader .countdown>li>p{font-size:9px}
+body.countdownOpen .daterangepicker{top:calc(var(--HeaderHeight) + var(--countdownHeight))!important;height:calc(100vh - var(--HeaderHeight) + var(--countdownHeight))!important}
+}
