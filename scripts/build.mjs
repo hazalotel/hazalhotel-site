@@ -109,7 +109,6 @@ for (const pageFile of pageFiles.sort()) {
 
 writeSiteFile('robots.txt', buildRobots());
 writeSiteFile('sitemap.xml', buildSitemap([...new Set(sitemapUrls)]));
-writeSiteFile('CNAME', 'hazalhotel.com\n');
 writeSiteFile('.nojekyll', '');
 
 console.log('Build complete.');
